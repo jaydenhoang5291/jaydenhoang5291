@@ -7,7 +7,7 @@
 ![Profile viewed](https://komarev.com/ghpvc/?username=jaydenovernight&color=blue)
 
 ## Connect with me:
-<a href="https://linkedin.com/in/đức-hoàng-gia-95a847344" target="_blank">
+<a href="https://linkedin.com/in/jaydenhoang5291" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="60" height="60"/>
 </a>
 

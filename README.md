@@ -8,6 +8,6 @@
 
 ## Connect with me:
 <a href="https://linkedin.com/in/đức-hoàng-gia-95a847344" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="60" height="60"/>
 </a>
 

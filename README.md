@@ -3,11 +3,11 @@
   
   <h2>A passionate student from Vietnam 🇻🇳<h2>
 </div>
-
+    
 ![Profile viewed](https://komarev.com/ghpvc/?username=jaydenovernight&color=blue)
 
-## Connect with me:
-<a href="https://linkedin.com/in/jaydenhoang5291" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="60" height="60"/>
-</a>
+## 🌐Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jaydenhoang5291/) 
 
+# 💻Tech Stack
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
